@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/AmbientHum.ogg-c729f978f4d2a9b459f55e52c69ebe5a.oggstr"
+
+[deps]
+
+source_file="res://Audio/AmbientHum.ogg"
+dest_files=[ "res://.import/AmbientHum.ogg-c729f978f4d2a9b459f55e52c69ebe5a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
